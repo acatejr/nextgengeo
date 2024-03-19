@@ -40,3 +40,9 @@ Intro to Cloud Native
     Gentemann, C. L., et al. (2021). "Science Storms the Cloud". AGU Advances, 2, e2020AV000354. https://doi.org/10.1029/2020AV000354
 
     [Mapscaping Podcast on Cloud Native Geospatial](https://mapscaping.com/podcast/cloud-native-geospatial/)  
+
+Cloud Optimized Geotiffs
+------------------------
+Done  
+
+
