@@ -53,3 +53,8 @@ Intro to Zarr & Xarray
 ----------------------
 [Daymet API](https://daymet.ornl.gov/web_services)  
 Done
+
+SpatioTemporal Asset Catalogs
+-----------------------------
+Read through [page](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC))  
+Done  
