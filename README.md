@@ -61,7 +61,7 @@ Read through [page](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Spat
 [Radiant Earth STAC Browser](https://radiantearth.github.io/stac-browser/#/)  
 Done  
 
-Google Earh Engine (GEE)
+Google Earth Engine (GEE)
 ------------------------
 [Awesome GEE](https://github.com/giswqs/earthengine-py-notebooks)  
 [GEE Jupyter](https://github.com/google/earthengine-jupyter)  
