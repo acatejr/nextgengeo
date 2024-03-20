@@ -45,4 +45,11 @@ Cloud Optimized Geotiffs
 ------------------------
 Done  
 
+Cloud Optimized Point Clouds
+----------------------------
+Done  
 
+Intro to Zarr & Xarray
+----------------------
+[Daymet API](https://daymet.ornl.gov/web_services)  
+Done
