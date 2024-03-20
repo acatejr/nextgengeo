@@ -54,7 +54,17 @@ Intro to Zarr & Xarray
 [Daymet API](https://daymet.ornl.gov/web_services)  
 Done
 
-SpatioTemporal Asset Catalogs
------------------------------
-Read through [page](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC))  
+SpatioTemporal Asset Catalogs (STAC)
+------------------------------------
+[STAC](https://stacspec.org/en)  
+Read through [page](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC)).  
+[Radiant Earth STAC Browser](https://radiantearth.github.io/stac-browser/#/)  
+Done  
+
+Google Earh Engine (GEE)
+------------------------
+[Awesome GEE](https://github.com/giswqs/earthengine-py-notebooks)  
+[GEE Jupyter](https://github.com/google/earthengine-jupyter)  
+[GEE Developers](https://developers.google.com/earth-engine)  
+[Adding GEE to a University Account](https://samapriyaroy.medium.com/google-cloud-projects-and-earth-engine-integration-in-universities-a-practical-guide-fb16d8dad14a#:~:text=Earth%20Engine%20comes%20with%20several,project%20with%20your%20university%20account)  
 Done  
